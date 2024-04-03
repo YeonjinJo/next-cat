@@ -17,3 +17,4 @@ const IncrementalSiteRegeneration = async () => {
 };
 
 export default IncrementalSiteRegeneration;
+

@@ -15,3 +15,4 @@ const StaticSiteGeneration = async () => {
 };
 
 export default StaticSiteGeneration;
+

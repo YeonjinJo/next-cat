@@ -1,8 +1,8 @@
 import Link from "next/link";
 import React from "react";
 
-const buttonStyle =
-  "my-1 px-1 border rounded border-black border-solid hover:bg-cyan-600";
+const buttonStyle: string =
+  "my-1 px-1 border rounded border-black border-solid hover:bg-cyan-300";
 
 const RenderingTest = () => {
   return (
